@@ -1,5 +1,5 @@
 {
-  "name": "verify-token",
+  "name": "@aravsanj/verify-token",
   "version": "1.0.0",
   "description": "A package used to verify the JWT token for HackerConnect project",
   "main": "index.js",
